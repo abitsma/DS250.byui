@@ -1,23 +1,23 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Austin Bitsoi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Austin Bitsoi
+Juvenile Detention Officer, Student at BYUI, Data Science Major. 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.eastidahonews.com/2018/09/gravesite-of-u-s-soldier-gets-facelift-140-years-after-his-death-and-now-its-being-rededicated/">A cool project I've done</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Full time Data Science Student, Part time Juvenile Detention Officer
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Python, professional communications. 
 
 
 ### Research interests
