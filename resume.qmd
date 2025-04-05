@@ -3,7 +3,7 @@ layout: cv
 title: Austin Bitsoi's CV
 ---
 # Austin Bitsoi
-Juvenile Detention Officer, Student at BYUI, Data Science Major. 
+Juvenile Detention Officer, Student at BYUI, Data Science Major
 
 <div id="webaddress">
 <a href="https://abitsma.github.io/anterogradetragedy/">Music I'm working on</a>
