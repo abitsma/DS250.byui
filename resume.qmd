@@ -6,7 +6,7 @@ title: Austin Bitsoi's CV
 Juvenile Detention Officer, Student at BYUI, Data Science Major. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="https://abitsma.github.io/anterogradetragedy/">Music I'm working on</a>
 | <a href="https://www.eastidahonews.com/2018/09/gravesite-of-u-s-soldier-gets-facelift-140-years-after-his-death-and-now-its-being-rededicated/">A cool project I've done</a>
 </div>
 
@@ -22,65 +22,56 @@ Python, professional communications.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Game Theory, Maladaptive Behavior in Juveniles, Anger Management for Juveniles.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2021`
+__Rigby High School, Rigby__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2024 - now`
+__BYU-Idaho, Rexburg__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2018`
+Eagle Scout Award
 
-Associate, *French Academy of Science*, Paris, France
+`2021`
+Graduated Rigby High School with High Honors
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2024`
+INL Scholarship reward
+BYU-I Scholarship reward
 
 
-## Occupation
+## Occupations
 
-`1600`
-__Royal Mint__, London
+`2024-now`
+__Juvenile Detention Officer__, 5 County Juvenile Detention Center
 
-- Warden
-- Minted coins
+- Peace Officer
+- First Responder
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2024`
+__Car Wash Attendant__, Tagg-N-Go
+
+- Washed 10,000+ cars
+- Adapted practices to ensure safety
+
+`2019-2021`
+__Crop Consultant Assistant__, Kelly Hurst Agricultural Consulting, Inc.
+
+- Data collection on potato crops
+- Suggested practices to produce highest yeild for crops
+
+`2017-2019`
+__Private Property Manager__, Early Bird Landscaping
+
+- Utilized a learned set of skills in sprinkler work and landscaping
+- Kept a proactive list of problems and accomplished solutions within a given time frame. 
 
 
 
